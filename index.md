@@ -5,14 +5,6 @@ Hello, my name is **Lawrence** and this is my introductory page for CSE 110.
 ![Pickle and Lucy](cats.jpeg)
 > I love cats.
 
-## Programming Languages I Am Familiar With
-
-- Python
-- Java
-- C
-- C++
-- Assembly
-
 ``` python
 print("Hello World")
 ```
@@ -28,6 +20,16 @@ print("Hello World")
 - [x] Taiwan
 - [x] China
 - [ ] Dubai
+
+## Programming Languages I Am Familiar With
+
+- Python
+- Java
+- C
+- C++
+- Assembly
+
+Here is an example of python
 
 ## Links About Me
 [My Github](https://github.com/lnovilla8)
