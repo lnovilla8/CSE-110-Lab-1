@@ -4,10 +4,6 @@ Hello, my name is **Lawrence** and this is my introductory page for CSE 110.
 ## Cats
 ![Pickle and Lucy](cats.jpeg)
 > I love cats.
-
-``` python
-print("Hello World")
-```
   
 ## My Favorite Foods
 
@@ -30,6 +26,9 @@ print("Hello World")
 - Assembly
 
 Here is an example of python
+``` python
+print("Hello World")
+```
 
 ## Links About Me
 [My Github](https://github.com/lnovilla8)
