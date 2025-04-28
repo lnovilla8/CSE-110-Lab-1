@@ -1,1 +1,4 @@
 # CSE-110-Lab-1
+Lawrence's User Page
+The language I first learned is Java in highschool.
+[Link to Page](https://lnovilla8.github.io/CSE-110-Lab-1/#lawrence-novilla)
